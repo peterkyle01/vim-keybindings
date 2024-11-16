@@ -20,3 +20,6 @@ nmap L <Action>(NextTab)>
 nmap <C-f> <Action>(SearchEverywhere)
 nmap <C-p> <Action>(GotoFile)
 nmap <C-t> <Action>(ActivateTerminalToolWindow)
+nmap <leader>q <Action>(CloseContent)
+nmap <C-e> <Action>(ActivateProjectToolWindow)
+
