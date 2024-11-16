@@ -1,0 +1,22 @@
+let mapleader=" "
+
+""" Plugins  --------------------------------
+set scrolloff=5
+set clipboard+=unnamed
+set incsearch
+
+""" Plugin settings -------------------------
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-commentary'
+
+""" My Mappings -----------------------------
+nmap Q gq
+nmap <leader>g <Action>(FindInPath)
+nmap <leader>b <Action>(Switcher)
+nmap gh <Action>(ShowErrorDescription)
+nmap <leader>w <Action>(ReformatCode)
+nmap H <Action>(PreviousTab)>
+nmap L <Action>(NextTab)>
+nmap <C-f> <Action>(SearchEverywhere)
+nmap <C-p> <Action>(GotoFile)
+nmap <C-t> <Action>(ActivateTerminalToolWindow)
