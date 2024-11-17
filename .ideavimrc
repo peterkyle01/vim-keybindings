@@ -23,4 +23,5 @@ nmap <C-t> <Action>(ActivateTerminalToolWindow)
 nmap <leader>q <Action>(CloseContent)
 nmap <C-e> <Action>(ActivateProjectToolWindow)
 nmap <C-.> <Action>(ShowIntentionActions)
+nmap <leader>o <Action>(OptimizeImports)
 
