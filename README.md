@@ -5,3 +5,7 @@
 ## VS Code
 
 settings.json is used in vscode
+
+## Zed Editor
+
+keymap.json is used in vscode
