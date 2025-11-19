@@ -8,4 +8,4 @@ settings.json is used in vscode
 
 ## Zed Editor
 
-keymap.json is used in vscode
+keymap.json is used in zed editor
